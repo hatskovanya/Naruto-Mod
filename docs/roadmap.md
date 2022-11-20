@@ -36,3 +36,4 @@ These are not set in stone but this is the currently planned roadmap.
 26. Wall walking
 27. Transformation Jutsu
 28. Rasengan
+29. Chidori
